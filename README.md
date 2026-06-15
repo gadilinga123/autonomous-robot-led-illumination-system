@@ -110,7 +110,6 @@ Power delivery: USB-C EPR via RT7209 supporting up to 48V/5A negotiation.
 | File | Description |
 |------|-------------|
 | `LED_DRIVING_MODULE_SCHEMATICS.pdf` | Full 7-sheet schematic — V1.0 |
-| `solution_report.pdf` | Complete design report (Parts 1–4) |
 | `bom.csv` | Bill of materials with part numbers |
 | `datasheet_XHP70.3.pdf` | Cree XLamp XHP70.3 LED datasheet |
 | `datasheet_NLDD1400H.pdf` | Mean Well NLDD-1400H driver datasheet |
